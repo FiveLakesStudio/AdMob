@@ -1,4 +1,0 @@
-AdMob
-=====
-
-Google AdMob SDK
